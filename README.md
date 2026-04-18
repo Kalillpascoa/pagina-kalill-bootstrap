@@ -1,4 +1,4 @@
-# 🌐 Página Pessoal com Bootstrap
+# Página Pessoal com Bootstrap
 
 Este é um projeto de página pessoal desenvolvido com HTML, CSS e Bootstrap, com o objetivo de praticar criação de interfaces responsivas e publicação de sites usando GitHub Pages.
 
